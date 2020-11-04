@@ -1,0 +1,8 @@
+noblacklist ${HOME}/.ssh
+noblacklist ${HOME}/.dotnet
+noblacklist ${HOME}/.aspnet
+noblacklist ${HOME}/.omnisharp
+
+ignore apparmor
+ignore noexec
+
